@@ -1,4 +1,3 @@
-layout_spectrum: 0.010433274321258068
 typography_spectrum: 0.9450721114408225
 color:
   brandStrength: 0.5853871528524905
@@ -11,4 +10,6 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.010433274321258068
 name: A Hacker's Evolution
+title: A Window to a Hacker's Life
